@@ -1,6 +1,6 @@
 Array and Pointer
 ====================================================================
-### 1st Problem_sparse matrix.c
+### sparse matrix.c
 
 1. typedef
 - typedef struct element : 항의 요소를 의미
@@ -21,7 +21,7 @@ Array and Pointer
 - input : SparseMatrix
 - output : transpose matrix of input SparseMatrix
 
-### 2nd Problem_mem alloc 3D double.c
+### mem alloc 3D double.c
 
 1. mem_alloc_3D_double
 - purpose : double type의 배열에 대한 동적 할당 및 배열 원소 입력
