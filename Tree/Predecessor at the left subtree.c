@@ -65,7 +65,7 @@ void insert_node(TreeNode** root, int key)
 void delete_node(TreeNode** root, int key)
 {
 	TreeNode* p, * child, * succ, * succ_p, * t,* prede,* prede_p;
-	// search node t with key, p: t¡¯s parent
+	// search node t with key, p: tÂ¡Â¯s parent
 	p = NULL;
 	t = *root;
 	while (t != NULL && t->key != key) {
