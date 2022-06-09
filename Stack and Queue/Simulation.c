@@ -69,7 +69,7 @@ element dequeue(QueueType* q)
 }
 
 // Generate a random number.
-// If it is smaller than ¡®arrival_prov¡¯, assume that new customer comes in the bank.
+// If it is smaller than Â¡Â®arrival_provÂ¡Â¯, assume that new customer comes in the bank.
 int is_customer_arrived()
 {
 	if (random() < arrival_prob)
