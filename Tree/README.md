@@ -1,3 +1,6 @@
+Tree
+====================================================================
+
 ### Successor in the inorder traversal.c
 
 1) typedef struct TreeNode
@@ -18,7 +21,7 @@
 -. input : 트리 노드 p
 -. output : p의 predecessor
 
-### Predecessor at the left subtree..c
+### Predecessor at the left subtree.c
 
 1) typedef struct TreeNode
 -. key(데이터 필드), left(왼쪽 자식 노드), right(오른쪽 자식 노드)를 정의한 이중연결리스트 구조체
